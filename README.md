@@ -6,10 +6,10 @@ Project work for the Udacity Full-Stack Web Developer Nanodegree
 
 ## Projects:
 
-- **Project 1**: Movie Trailer Website
-- **Project 2**: Tournament Planner
-- **Project 3**: Item Catalog
-- **Project 4**: Multi User Blog
+- [x] **Project 1**: Movie Trailer Website
+- [x] **Project 2**: Tournament Planner
+- [] **Project 3**: Item Catalog
+- [] **Project 4**: Multi User Blog
 
 ## Courses:
 
