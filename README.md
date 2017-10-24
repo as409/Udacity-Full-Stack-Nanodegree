@@ -8,8 +8,8 @@ Project work for the Udacity Full-Stack Web Developer Nanodegree
 
 - [x] **Project 1**: Movie Trailer Website
 - [x] **Project 2**: Tournament Planner
-- [ ] **Project 3**: Item Catalog
-- [ ] **Project 4**: Multi User Blog
+- [x] **Project 3**: Item Catalog
+- [x] **Project 4**: Multi User Blog ( check GOT Wiki in my repositories )
 
 ## Courses:
 
